@@ -54,17 +54,28 @@ teaching basic computer science in schools and in developing countries
 [sparkfun GitHub](https://github.com/sparkfun)
             ![white-red-flame-logo](https://user-images.githubusercontent.com/58439868/133886974-a01cc671-3a99-4e52-80e0-369954ea9865.png)
 
-# Particle
 
-![particle-removebg-preview (1)](https://user-images.githubusercontent.com/58439868/133887796-4993834c-a866-4c10-8ccf-dba8214b2a3f.png)
+# DEVLOPMENT BOARDS
 
-[Particle](https://www.particle.io/)
+> *Development board is basically a printed circuit board with circuitry and hardware on-board to facilitate experimentation with certain microcontrollers. These boards can save you from a lot of repetitive tasks*
 
-[Particle GitHub](https://github.com/particle-iot)
+* All the boards will fall into any of the below categories:
+  * Microcontroller-based boards
+  * System on Chip (SOC) boards
+  * Single-board Computers (SBC)
 
-# SoC BOARDS
+
+
+> DEVELOPMENT BOARD FEATURES
+
+- Power circuit          –   Generally set up to run off of a 9V power supply
+- Programming interface  –   Let you program the microcontroller from a computer
+- Basic input            –   Usually buttons
+- Basic output           –   Usually LEDs
+- I/O pins               –   Used for motors, temperature sensors, LCD screens, etc.
 
 ## Microcontroller Boards
+
 
 > DEVELOPEMENT BOARD
 
@@ -107,10 +118,28 @@ teaching basic computer science in schools and in developing countries
 * Omega Onion
   * Omega2
 * [Banana Pi](https://www.banana-pi.org/) M4/M5
+* 
 
 
 # IOT
 
+
+![IoT-ecosystem-by-Webisoft-Digital](https://user-images.githubusercontent.com/58439868/133895135-43ab67c2-2fba-4873-9385-95fe0cf1b053.gif)
+
+
+> The Internet of Things (IoT) describes the network of physical objects—“things”—that are embedded with sensors, software, and other technologies for the purpose of connecting and exchanging data with other devices and systems over the internet
+
+[Related Article](https://hashstudioz.com/blog/top-iot-development-boards-how-to-select-the-right-one-for-your-project/)
+
+# SOFTWARE TOOL-KIT 
+
+* Arduino IDE
+* Arduino CLI
+* [FreeRTOS](https://www.freertos.org/)
+* [PlatformIO](https://platformio.org/)
+* [Micropython](https://micropython.org/)
+* [Circuitpython](https://circuitpython.org/)
+* Robot Operating System[(ROS)](https://www.ros.org/)
 
 
 
