@@ -4,6 +4,8 @@
 Here you can expect: 
 
  > Different types of developement boards
+ 
+ > Internet of things(IOT)
                     
  > Software tool kit
                     
@@ -57,6 +59,7 @@ teaching basic computer science in schools and in developing countries
 ![particle-removebg-preview (1)](https://user-images.githubusercontent.com/58439868/133887796-4993834c-a866-4c10-8ccf-dba8214b2a3f.png)
 
 [Particle](https://www.particle.io/)
+
 [Particle GitHub](https://github.com/particle-iot)
 
 # SoC BOARDS
@@ -74,6 +77,8 @@ teaching basic computer science in schools and in developing countries
 * Raspberry Pi Pico2040
 * Teensy [(SPARKFUN)](http://www.sparkfun.com/)
 * Trinket M0 [(Adafruit)](https://www.adafruit.com/)
+* [SeedStudio](https://www.seeedstudio.com/)
+  * Seeeduino
 
 > IOT
 
@@ -83,6 +88,7 @@ teaching basic computer science in schools and in developing countries
 - Photon WiFi
 - Photon Argon
 - Boron LTE CAT-M1
+- [Omega Onion](https://onion.io/)
 
 
 
@@ -94,7 +100,17 @@ teaching basic computer science in schools and in developing countries
 * NVIDIA
   * NVIDIA Jetson Nano
   * NVIDIA Xavier
-* 
+* BeagleBone
+  * BeagleBone Black
+  * BeagleBone Blue
+  * BeagleBone AI
+* Omega Onion
+  * Omega2
+* [Banana Pi](https://www.banana-pi.org/) M4/M5
+
+
+# IOT
+
 
 
 
