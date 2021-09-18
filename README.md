@@ -52,8 +52,12 @@ teaching basic computer science in schools and in developing countries
 [sparkfun GitHub](https://github.com/sparkfun)
             ![white-red-flame-logo](https://user-images.githubusercontent.com/58439868/133886974-a01cc671-3a99-4e52-80e0-369954ea9865.png)
 
+# Particle
 
+![particle-removebg-preview (1)](https://user-images.githubusercontent.com/58439868/133887796-4993834c-a866-4c10-8ccf-dba8214b2a3f.png)
 
+[Particle](https://www.particle.io/)
+[Particle GitHub](https://github.com/particle-iot)
 
 # SoC BOARDS
 
@@ -61,30 +65,37 @@ teaching basic computer science in schools and in developing countries
 
 > DEVELOPEMENT BOARD
 
-- Arduino UNO
-- Arduino NANO
-- Arduino MEGA
-- Arduino MINI
-- ATtiny85
-- Teensy [(SPARKFUN)](http://www.sparkfun.com/)
-- Trinket M0 [(Adafruit)](https://www.adafruit.com/)
+* Arduino
+  * Arduino UNO
+  * Arduino NANO
+  * Arduino MEGA
+  * Arduino MINI
+* ATtiny85
+* Raspberry Pi Pico2040
+* Teensy [(SPARKFUN)](http://www.sparkfun.com/)
+* Trinket M0 [(Adafruit)](https://www.adafruit.com/)
 
 > IOT
 
 - ESP32/8266
 - Arduino Protenta H7
 - Arduino NANO 33 BLE 
+- Photon WiFi
+- Photon Argon
+- Boron LTE CAT-M1
 
 
 
 ## Microprocesser Boards AKA Single Board Computers(SBC)
 
-- 
--
--
--
--
--
+* Raspberry Pi
+  * Raspberry Pi zero
+  * Raspberry Pi 4
+* NVIDIA
+  * NVIDIA Jetson Nano
+  * NVIDIA Xavier
+* 
+
 
 
 ### ML | AI | Deep Learning  IN MCU WORLD
