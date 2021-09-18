@@ -118,7 +118,9 @@ teaching basic computer science in schools and in developing countries
 * Omega Onion
   * Omega2
 * [Banana Pi](https://www.banana-pi.org/) M4/M5
-* 
+* [Khadas Vim](https://www.khadas.com/vim)
+* [Lattepanda](https://www.lattepanda.com/)
+* [Google Coral](https://coral.ai/products/dev-board/)
 
 
 # IOT
