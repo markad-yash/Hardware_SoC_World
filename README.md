@@ -145,6 +145,26 @@ teaching basic computer science in schools and in developing countries
 
 
 
+# Simulators:
+
+- [PROTEUS](https://www.labcenter.com/)
+
+
+![download-removebg-preview (2)](https://user-images.githubusercontent.com/58439868/133958630-58e64805-96a7-4287-b95c-aab2dbfdce20.png)
+
+
+- [TINKERCAD](https://www.tinkercad.com/)
+
+
+    ![download-removebg-preview (1)](https://user-images.githubusercontent.com/58439868/133958628-ca7559d6-95e1-4441-b881-9635cc95e8af.png)
+
+
+- [MULTISIM](https://www.multisim.com/)
+
+
+![download-removebg-preview (3)](https://user-images.githubusercontent.com/58439868/133958632-a0c5276d-989c-4003-af8f-e9c1bc972658.png)
+
+
 ### ML | AI | Deep Learning  IN MCU WORLD
 
 
